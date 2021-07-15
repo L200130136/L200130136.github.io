@@ -31,15 +31,13 @@ layout: home
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                
                 <h1 class="text has_hide "> <br/>&laquo; 
 				&laquo;                                    </h1>
                 <div class="form-cont has_hide">                                         
                 </div>
             </div>
         </div>
-    </div>
-    
+    </div>   
     <div class="section section2" data-index="2">
         <div class="vertical-block">
             <div class="vertical-block--inner">
@@ -125,14 +123,14 @@ layout: home
                 </h3>
                 <div class="text-large text has_hide">TAMADES.2018</div>
                 <div class="form-cont has_hide">
-                    <a href="publikasi/Undian/tamades2018.pdf" class="buynow btn btn-success">Download disini</a>
+                <a href="publikasi/Undian/tamades2018.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
 				<a href="/produk/simpanan" class="text-default">Simpanan</a> |
 				<a href="/publikasi" class="text-default">Publikasi</a> |
 				<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
-                		<a href="/laporan" class="text-default">Laporan Tata Kelola</a> |				
+                <a href="/laporan" class="text-default">Laporan Tata Kelola</a> |				
 				<a href="/news" class="text-default">Berita</a> |
 				<a href="/about" class="text-default">Tentang</a>
 				</div>
