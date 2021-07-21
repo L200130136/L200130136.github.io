@@ -1,5 +1,5 @@
 ---
-layout: simpanan
+layout: post
 ---
 
 <div class="container">
