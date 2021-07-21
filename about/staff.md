@@ -1,5 +1,5 @@
 ---
-layout: galeri
+layout: kantor
 ---
 
 <div class="container">
