@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: kredit
 ---
 
 <div class="container">
