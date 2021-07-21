@@ -160,7 +160,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/jokosan.jpg" class="img-thumbnail" alt="Joko Santoso, S.E."/><h4>Joko Santoso, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/jokosan.jpg" class="img-thumbnail" style="center" alt="Joko Santoso, S.E."/><h4>Joko Santoso, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Purwantoro</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
