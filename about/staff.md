@@ -1,5 +1,5 @@
 ---
-layout: kantor
+layout: 
 ---
 
 <div class="container">
