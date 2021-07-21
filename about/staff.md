@@ -1,5 +1,5 @@
 ---
-layout: staff
+layout: simpanan
 ---
 
 <div class="container">
