@@ -1,5 +1,5 @@
 ---
-layout: kredit
+layout: staff1
 ---
 
 <div class="container">
