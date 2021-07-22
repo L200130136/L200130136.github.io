@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: staff
 ---
 
 <div class="container">
