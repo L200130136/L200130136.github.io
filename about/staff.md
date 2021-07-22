@@ -36,9 +36,6 @@ layout: staff1
 		<a href="#"><img src="/images/managemen/arisdekom.jpg" alt="Aristian Hari Marjoko, S.E., M.M."/><h4>Aristian Hari Marjoko, S.E., M.M.</h4></a>
 		<span class="tooltip-content"> Komisaris Independen PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-3" class="bprbkk-1" />
-				</svg>
 			</div>
 		</div>
 	</div>
@@ -48,8 +45,6 @@ layout: staff1
 		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, S.E., M.M."/><h4>Sarti, S.E., M.M.</h4></a>
 		<span class="tooltip-content">Direktur Utama PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
@@ -57,9 +52,6 @@ layout: staff1
 		<a href="#"><img src="/images/managemen/suwarto.jpg" alt="Suwarto, S.E."/><h4>Suwarto, S.E.</h4></a>
 		<span class="tooltip-content">Direktur Pemasaran PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
 			</div>
 	</div>
 	<div class="dummy dummy-avatar" id="skai">
