@@ -1,5 +1,5 @@
 ---
-layout: galeri
+layout: default
 ---
 
 <div class="container">
