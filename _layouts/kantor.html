@@ -29,71 +29,43 @@
 	
     <style>
     .demo-header {
-        text-align: center;
-        background: url('/images/jaringan_kantor.jpg') no-repeat center center scroll;
-        color: #fff;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        padding: 150px 0 60px 0;
-    }
-    .preview-pane {
-        text-align: center;
-        margin-bottom: 30px;
-        padding: 15px;
-    }
-    .preview-pane hr {
-        max-width: 50px;
-        margin: 5px auto;
-    }
-    .preview-pane a {
-        color: #222;
-    }
-    .preview-pane a:focus {
-        outline: none;
-    }
-    .preview-pane a img {
-        -webkit-transition: all 0.5s;
-        -moz-transition: all 0.5s;
-        transition: all 0.5s;
-    }
-    .preview-pane a:hover img {
-        opacity: 0.5;
-    }
-    .label-primary {
-        background-color: #EF4035;
-    }
-    .cta-list {
-        margin-top: 30px;
-    }
-    #footer {
-    width: auto;
-    height: 60px;
-    overflow: hidden;
-    padding: 0;
-    background: #181818;
-    color: #fff;
-	}
+        * {box-sizing: border-box}
 
-	#footer a {
-		color: #eee;
-		padding: 5px;
-	}
-	footer {
-		border: none;
-		height: 60px;
-		margin: 0;
-		padding: 0;
-		overflow: hidden;
-	}
-	footer p {
-	font-size: 13px;
-	font-weight: normal;
-	line-height: 18px;
-	margin-bottom: 9px;
-		margin-top: 23px;
-	}
+/* Container needed to position the overlay. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the container and over the image */
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the container, fade in the overlay title */
+.container:hover .overlay {
+  opacity: 1;
+}
+
     </style>
 
 </head>
