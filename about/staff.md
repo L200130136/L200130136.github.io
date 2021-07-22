@@ -1,5 +1,5 @@
 ---
-layout: staff1
+layout: galeri
 ---
 
 <div class="container">
