@@ -17,12 +17,12 @@ layout: home
 	<div class="clearfix">
 		<a href="#" id="pull">Menu</a>
 		<div class="js--header-user pull-right b-header--user">
-			<a href="/news" class="text-default">Berita</a>|
-            <a href="/publikasi" class="text-default">Publikasi</a>|
-			<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
-            <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|
-            <a href="/produk/kredit" class="text-default">Kredit</a>|
-            <a href="/produk/simpanan" class="text-default">Simpanan</a>|
+			<a href="/news" class="text-default">Berita</a>
+            <a href="/publikasi" class="text-default">Publikasi</a>
+			<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>
+            <a href="/laporan" class="text-default">Laporan Tata Kelola</a>
+            <a href="/produk/kredit" class="text-default">Kredit</a>
+            <a href="/produk/simpanan" class="text-default">Simpanan</a>
             <a href="/about" class="text-default">Tentang</a>           
 		</div>
 	</div>
