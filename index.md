@@ -14,8 +14,8 @@ layout: home
 	</div>
 </div>    
 <div class="b-header">
-	<div class="clearfix">
-		<a href="#" id="pull">Menu</a>
+	<div class="container clearfix">
+		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>
             <a href="/publikasi" class="text-default">Publikasi</a>
